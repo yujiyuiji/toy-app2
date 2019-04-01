@@ -1,0 +1,17 @@
+[33mcommit cc8f02e6980bf38cbc6834a0505ae472ba90e245[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: yuji <t.y.m.1987.1216@gmail.com>
+Date:   Mon Apr 1 20:39:26 2019 +0900
+
+    first commit
+
+[33mcommit 869d3bfb4338f7cb7d7c6fac9b96fca5b4f4b752[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: yuji <t.y.m.1987.1216@gmail.com>
+Date:   Mon Apr 1 19:41:48 2019 +0900
+
+    Add hello
+
+[33mcommit 14166ceedbf28fe6bae8554c5e02f93a02113adb[m
+Author: yuji <t.y.m.1987.1216@gmail.com>
+Date:   Mon Apr 1 19:37:19 2019 +0900
+
+    Initialize repository
